@@ -7,13 +7,13 @@
 
 export const config = {
   /* Name Verification Gate */
-  recipientName: "love", // required name to enter
-  nameHint: '4 letters, starts with "L"', // hint on wrong name
+  recipientName: "April", // required name to enter
+  nameHint: 'only me will called you that"', // hint on wrong name
 
   /* Section Headings */
   soloGalleryTitle: "✨ My Birthday Girl ✨", // solo gallery title
   messageTitle: "To My Favorite Person", // letter section title
-  footerText: "Made with 💗 just for you", // footer text
+  footerText: "Made while having a headache just for you :p", // footer text
 
   /* Button Labels */
   buttons: {
