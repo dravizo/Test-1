@@ -23,14 +23,14 @@ export const config = {
 
   /* Together Gallery (Optional) */
   togetherGallery: {
-    enabled: true, // toggle together gallery
+    enabled: false, // toggle together gallery
     title: "💕 Our Memories 💕", // together gallery title
     buttonText: "One last thing...", // together gallery button
   },
 
   /* Birthday Message: Each string is a paragraph */
   message: [
-    "Happy Birthday, my love!",
+    "Happy Birthday, my April!",
     "",
     "I hope today is filled with joy, laughter, and all the little moments that make you smile. As you step into this new year, may it bring exciting opportunities, meaningful memories, and the confidence to chase everything you dream of.",
     "",
@@ -38,7 +38,7 @@ export const config = {
     "",
     "Wishing you a beautiful birthday and an even more amazing year to come.",
     "",
-    "- With love,",
+    "- :p ,",
   ],
 
   /* Theme Colors - Change these to customize the entire website theme! */
