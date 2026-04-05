@@ -34,7 +34,7 @@ export const config = {
     "",
     "I hope today is filled with joy, laughter, and all the little moments that make you smile. As you step into this new year, may it bring exciting opportunities, meaningful memories, and the confidence to chase everything you dream of.",
     "",
-    "You have so much ahead of you, and I hope you never stop believing in yourself and all that you’re capable of. May this year be kind to you, rewarding, and full of reasons to celebrate.",
+    "You have so much ahead of you, and I hope you never stop believing in yourself and all that you’re capable of. Im also want to say sorry if sometimes I sound mad in game but i can tell that im not really mad at you yah :p. May this year be kind to you, rewarding, and full of reasons to celebrate.",
     "",
     "Wishing you a beautiful birthday and an even more amazing year to come.",
     "",
